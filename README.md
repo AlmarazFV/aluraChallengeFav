@@ -1,4 +1,7 @@
-# Conversor de Monedas
+
+# aluraChallenge - Conversor de Monedas BackEnd - FA
+
+![Badge: Java](https://img.shields.io/badge/Java-17-blue) ![Badge: IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-orange)
 
 Este proyecto es un **Conversor de Monedas** desarrollado en **Java**, que utiliza una API de tasas de cambio para realizar conversiones entre diferentes divisas. Es parte de un desafío educativo que combina conceptos de programación, manejo de APIs, y manipulación de datos JSON.
 
@@ -60,8 +63,8 @@ Antes de ejecutar el proyecto, asegúrate de contar con:
 
 1. **Clona este repositorio** en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-de-monedas.git
-   cd conversor-de-monedas
+   git clone https://github.com/AlmarazFV/aluraChallenge.git
+   cd aluraChallenge
    ```
 
 2. **Configura la biblioteca Gson**:
@@ -84,11 +87,6 @@ Al ejecutar el programa, se mostrará un menú como el siguiente:
 Seleccione una opción:
 ```
 
-
-## Dónde Obtener Ayuda
-
-1. **Documentación de la API**: [ExchangeRate-API](https://www.exchangerate-api.com/).
-
 ---
 
 ## Autores
@@ -102,4 +100,3 @@ Seleccione una opción:
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
